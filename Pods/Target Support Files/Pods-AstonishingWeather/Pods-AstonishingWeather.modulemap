@@ -1,0 +1,6 @@
+framework module Pods_AstonishingWeather {
+  umbrella header "Pods-AstonishingWeather-umbrella.h"
+
+  export *
+  module * { export * }
+}
